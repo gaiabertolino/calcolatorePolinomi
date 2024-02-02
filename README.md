@@ -1,2 +1,1 @@
-Il seguente progetto è stato realizzato come elaborato finale del corso in Programmazione orientata agli oggetti erogato al secondo anno della laurea triennale in ingegneria informatica all'Università della Calabria.
-E' stata realizzata una serie di classi in grado di implementare la semplificazione fra polinomi in linguaggio Java
+The following project was developed as the final project for the Object-Oriented Programming course offered during the second year of the Bachelor's degree program in Computer Engineering at the University of Calabria. A series of classes were implemented in Java language to facilitate polynomial simplification.
