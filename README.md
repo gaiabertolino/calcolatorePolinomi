@@ -1,1 +1,5 @@
-The following project was developed as the final project for the Object-Oriented Programming course offered during the second year of the Bachelor's degree program in Computer Engineering at the University of Calabria. A series of classes were implemented in Java language to facilitate polynomial simplification.
+# calcolatorePolinomiProject 
+
+This project was developed as part of a degree coursework exam for the course of Object-Oriented Programming during the second year of my Bachelor's degree in Computer Engineering.
+
+Java-based project to facilitate polynomial simplification.
